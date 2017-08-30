@@ -1,0 +1,17 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.ng.bluemix.net",
+      "Org": "ecarabal@us.ibm.com",
+      "Space": "test"
+    },
+    "Name": "sample-nodejs-cloudant",
+    "Instrumentation": {
+      "host": "simple-toolchain-first-devops-chain-test-08-20-2017",
+      "domain": "mybluemix.net"
+    }
+  },
+  "Path": "manifest.yml",
+  "Type": "Cloud Foundry"
+}
